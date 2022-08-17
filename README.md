@@ -34,7 +34,7 @@ Understanding the these fines help prevent future violations and supports the tr
 
 For further information, please refer to the project repository on Github using the following link:
 
-[Power BI Project 1 Github](https://github.com/ChinhMaiGit/Project-PowerBI-1)
+[Power BI Project 1 Github](https://github.com/ChinhMaiGit/Project-PowerBI-1/)
 
 Or access the documentation directly
 
