@@ -44,8 +44,6 @@ The web version of the dashboard can be accessed via the following link
 
 [Power BI Project 1 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc0MWNmNzctYzE0MC00ZDJjLTgxNTMtZWExOTM5ZGJiODIwIiwidCI6IjI2ZjI5ZGM4LTVhMzktNGJmNi1hOGE5LTE2YjhjZThhZTIyOCJ9&pageName=ReportSection7976e95be0d9e0b574bd)
 
-<iframe title="GDPR Data Analysis" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiYzc0MWNmNzctYzE0MC00ZDJjLTgxNTMtZWExOTM5ZGJiODIwIiwidCI6IjI2ZjI5ZGM4LTVhMzktNGJmNi1hOGE5LTE2YjhjZThhZTIyOCJ9&pageName=ReportSection7976e95be0d9e0b574bd" frameborder="0" allowFullScreen="true"></iframe>
-
 Or via QR codes below
 
 ![image](https://user-images.githubusercontent.com/89245616/185034718-7f901c69-9233-4eec-8f93-20649749fdc4.png)
