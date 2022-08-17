@@ -42,7 +42,7 @@ Or access the documentation directly
 
 The web version of the dashboard can be accessed via the following link
 
-[Power BI Project 1 Dashboard](https://app.powerbi.com/groups/me/reports/44ec4cd1-2add-4f98-963a-8ce0c2def287/ReportSection00643c12c69d57c107db)
+[Power BI Project 1 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc0MWNmNzctYzE0MC00ZDJjLTgxNTMtZWExOTM5ZGJiODIwIiwidCI6IjI2ZjI5ZGM4LTVhMzktNGJmNi1hOGE5LTE2YjhjZThhZTIyOCJ9&pageName=ReportSection00643c12c69d57c107db)
 
 Or via QR codes below
 
