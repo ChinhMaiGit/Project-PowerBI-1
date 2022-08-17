@@ -5,13 +5,16 @@
 ## Project description 
 
 **GDPR**
+
 The General Data Protection Regulation (EU) (GDPR) is a regulation in EU law on data protection and privacy in the European Union (EU) and the European Economic Area (EEA).
 
 **Data**
+
 The data includes fines that have been published on the PrivacyAffairs website as of 23.01.2021. It contains the article(s) breached, the type of violation, the fine amount, which country the infraction took place and the authority that handed
 the fine. Moreover, the organization and source document are also included. 
 
 **Motivation**
+
 Understanding the these fines help prevent future violations and supports the training of the data users to adhere to the GDPR.
 
 ## Executive summary
